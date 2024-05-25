@@ -69,14 +69,6 @@ streamlit run app.py
 
 - **Connectivity Issues:** Check your internet connection if the app fails to communicate with the Gemini-Pro API.
 
-## Contributing
-
-Contributions to improve the application are welcome. Please adhere to conventional coding practices and open a pull request for changes.
-
-## License
-
-Specify your license or leave it as default to no license.
-
 ---
 
 For more information, visit [Streamlit Documentation](https://docs.streamlit.io) or [Google's API Documentation](https://cloud.google.com/apis/docs/overview).
